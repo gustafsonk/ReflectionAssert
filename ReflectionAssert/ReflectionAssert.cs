@@ -3,7 +3,7 @@ using System.Collections;
 using System.Reflection;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ReflectionAssert
+namespace AssertExtensions
 {
     public static class ReflectionAssert
     {

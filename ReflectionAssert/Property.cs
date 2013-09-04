@@ -1,4 +1,4 @@
-﻿namespace ReflectionAssert
+﻿namespace AssertExtensions
 {
     internal class Property
     {
